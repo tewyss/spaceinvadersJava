@@ -17,7 +17,9 @@ A simple remake of the classic **Space Invaders** arcade game, built in **Java**
 - Open the backend project in your IDE (e.g. IntelliJ IDEA or Eclipse)
 - Make sure **Java 21+**
 - Run `Application.java` in storage modul or use command
-```bash mvn spring-boot:run```
+```bash
+mvn spring-boot:run
+```
 - Backend will start on `http://localhost:8080`
 
 ### 3. Frontend (JavaFX)
